@@ -1,0 +1,1 @@
+<feature name="centrals" version="auto_update" min_stack_version="auto_update" class="com.directv.centrals.CentralsMain" init="true" reboot="true" dynamic="false"/>

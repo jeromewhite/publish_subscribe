@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<message id="1">
+    <msg_type>publish</msg_type>
+    <subject>rtie</subject>
+    <priority>2</priority>
+    <data_fields>
+        <type>str</type>
+        <value>voltage</value>
+        <type>real8</type>
+        <value>33.4534</value>
+        <type>str</type>
+        <value>switch_pos</value>
+        <type>real8</type>
+        <value>0.0</value>
+    </data_fields>
+</message>

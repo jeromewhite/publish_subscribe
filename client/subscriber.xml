@@ -1,0 +1,5 @@
+<message>
+    <msg_type>subscribe</msg_type>
+    <subject>rtie</subject>
+    <subject>rtdaq</subject>
+</message>
